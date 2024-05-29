@@ -16,22 +16,22 @@ To get started with this project, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd react-node-login-project
+   cd Quantum-Assignment
    ```
 
 3. Install dependencies for both frontend and backend:
    ```bash
-   cd client && npm install
-   cd ../server && npm install
+   cd frontend && npm install
+   cd ../backend && npm install
    ```
 
 4. Start the frontend and backend servers:
    ```bash
-   # In the client directory
+   # In the frontend directory
    npm start
    
-   # In the server directory
-   npm start
+   # In the backend directory
+   nodemon index.js
    ```
 
 5. Open your browser and visit `http://localhost:3000` to see the application in action.
@@ -54,8 +54,8 @@ To get started with this project, follow these steps:
 
 ```
 react-node-login-project/
-├── client/             # Frontend React JS code
-├── server/             # Backend Node JS code
+├── frontend/             # Frontend React JS code
+├── backend/             # Backend Node JS code
 └── README.md           # Project documentation
 ```
 
