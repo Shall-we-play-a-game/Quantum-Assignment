@@ -1,9 +1,10 @@
-Sure, here's a sample README file for your React JS and Node JS project:
+here's how to run this project
 
+make sure to add your own MongoDB url because most of the time local url fails to connect
 ```
 # React JS and Node JS Login/Register Project
 
-Welcome to the React JS and Node JS Login/Register Project! This project is a simple implementation of a login and registration system built with React JS for the frontend and Node JS for the backend. It also includes a protected dashboard route.
+Welcome to the React JS and Node JS Login/Register Project! This project is a simple implementation of a login and registration system built with React JS for the front-end and Node JS for the back-end. It also includes a protected dashboard route.
 
 ## Getting Started
 
@@ -61,7 +62,7 @@ react-node-login-project/
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, feel free to fork this repository and submit a pull request with your changes.
+Contributions are welcome! If you'd like to contribute to this project, you can fix this repository and submit a pull request with your changes.
 
 ## License
 
